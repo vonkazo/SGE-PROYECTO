@@ -1,0 +1,11 @@
+C:\DAM2\PokeBurger\PokeBurger\bin\Debug\PokeBurger.exe.config
+C:\DAM2\PokeBurger\PokeBurger\bin\Debug\PokeBurger.exe
+C:\DAM2\PokeBurger\PokeBurger\bin\Debug\PokeBurger.pdb
+C:\DAM2\PokeBurger\PokeBurger\obj\Debug\PokeBurger.Properties.Resources.resources
+C:\DAM2\PokeBurger\PokeBurger\obj\Debug\PokeBurger.csproj.GenerateResource.Cache
+C:\DAM2\PokeBurger\PokeBurger\obj\Debug\PokeBurger.csproj.CoreCompileInputs.cache
+C:\DAM2\PokeBurger\PokeBurger\obj\Debug\PokeBurger.exe
+C:\DAM2\PokeBurger\PokeBurger\obj\Debug\PokeBurger.pdb
+C:\DAM2\PokeBurger\PokeBurger\obj\Debug\PokeBurger.csprojResolveAssemblyReference.cache
+C:\DAM2\PokeBurger\PokeBurger\obj\Debug\PokeBurger.Principal.resources
+C:\DAM2\PokeBurger\PokeBurger\obj\Debug\PokeBurger.Empleado.resources
